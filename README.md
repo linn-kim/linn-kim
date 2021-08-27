@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @linnfresnais
+- 🌱 I’m currently learning economics
