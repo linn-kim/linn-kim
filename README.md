@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @linnkim
+- 👋 Hi, I’m @linn-kim
 - 🌱 I’m currently learning web design
