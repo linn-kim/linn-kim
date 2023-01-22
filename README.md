@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @linnfresnais
-- 🌱 I’m currently learning economics
+- 👋 Hi, I’m @linnkim
+- 🌱 I’m currently learning web design
